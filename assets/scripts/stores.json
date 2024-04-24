@@ -1,0 +1,100 @@
+{
+    "stores": [
+        {
+            "name": "Bodegas Alianza",
+            "shortName": "alianza",
+            "url": "",
+            "img": "../assets/images/retailers/alianza.svg",
+            "language": ["es"],
+            "isActive": false
+        },
+        {
+            "name": "Amazon",
+            "shortName": "amazon",
+            "url": "",
+            "img": "../assets/images/retailers/amazon.png",
+            "language": ["es"],
+            "isActive": true
+        },
+        {
+            "name": "Chedraui",
+            "shortName": "chedraui",
+            "url": "",
+            "img": "../assets/images/retailers/chedraui.svg",
+            "language": ["es"],
+            "isActive": true
+        },
+        {
+            "name": "City Market",
+            "shortName": "market",
+            "url": "",
+            "img": "../assets/images/retailers/city-market.svg",
+            "language": ["es"],
+            "isActive": true
+        },
+        {
+            "name": "Costco",
+            "shortName": "costco",
+            "url": "",
+            "img": "../assets/images/retailers/costco.svg",
+            "language": ["es"],
+            "isActive": false
+        },
+        {
+            "name": "Fresko",
+            "shortName": "fresko",
+            "url": "",
+            "img": "../assets/images/retailers/fresko.svg",
+            "language": ["es"],
+            "isActive": true
+        },
+        {
+            "name": "HEB",
+            "shortName": "heb",
+            "url": "",
+            "img": "../assets/images/retailers/heb.svg",
+            "language": ["es"],
+            "isActive": true
+        },
+        {
+            "name": "La Europea",
+            "shortName": "europea",
+            "url": "",
+            "img": "../assets/images/retailers/europea.svg",
+            "language": ["es"],
+            "isActive": true
+        },
+        {
+            "name": "Liverpool",
+            "shortName": "liverpool",
+            "url": "",
+            "img": "../assets/images/retailers/liverpool.svg",
+            "language": ["es"],
+            "isActive": true
+        },
+        {
+            "name": "Madagan Quima",
+            "shortName": "madagan",
+            "url": "",
+            "img": "../assets/images/retailers/madagan.svg",
+            "language": ["es"],
+            "isActive": false
+        },
+        {
+            "name": "El Palacio de Hierro",
+            "shortName": "palacio",
+            "url": "",
+            "img": "../assets/images/retailers/ph.svg",
+            "language": ["es"],
+            "isActive": true
+        },
+        {
+            "name": "Walmart Express",
+            "shortName": "walmartexpress",
+            "url": "",
+            "img": "../assets/images/retailers/walmart-express.png",
+            "language": ["es"],
+            "isActive": true
+        }
+    ]
+}
